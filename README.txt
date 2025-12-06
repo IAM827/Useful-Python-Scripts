@@ -13,6 +13,7 @@ pip install openpyxl
 pip install yt-dlp
 pip install Pillow
 pip install qrcode[pil]
+pip install faker
 
 For simultaneous installation:
 pip install requests beautifulsoup4 PyPDF2 openpyxl Pillow qrcode[pil] yt-dlp
